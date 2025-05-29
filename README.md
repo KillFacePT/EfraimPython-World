@@ -2,7 +2,7 @@
 
 ## ℹ️ About / Sobre 
 
-**🐍 Python World** is a free YouTube course divided into **3 phases** (or worlds), featuring exercises on:
+🐍 **Python World** is a free YouTube course by **Gustavo Guanabara** (from the [Curso em Vídeo](https://www.youtube.com/cursoemvideo) channel), divided into **3 phases** (or worlds), featuring exercises on:
 
 - Fundamentals  
 - Control structures  
@@ -17,7 +17,7 @@ After the theoretical part of each video, the instructor presents several practi
 
 ---
 
-**🐍 Python World** é um curso gratuito no YouTube dividido em **3 fases** (ou mundos), com exercícios sobre:
+🐍 **Python World** é um curso gratuito no YouTube do **Gustavo Guanabara** (canal [Curso em Vídeo](https://www.youtube.com/cursoemvideo)), dividido em **3 fases** (ou mundos), com exercícios sobre:
 
 - Fundamentos
 - Estruturas de controle
